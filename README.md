@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGJVow9QjI/CWWL3BV4WT5Lfha_WxiqGA/view?utm_content=DAGJVow9QjI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![MasterHead]([https://www.canva.com/design/DAGJVow9QjI/CWWL3BV4WT5Lfha_WxiqGA/view?utm_content=DAGJVow9QjI&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://github.com/Shubham131200/Shubham131200/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner%20(1).png))
 <h1 align="center">Hi 👋, I'm SHUBHAM SHINDE</h1>
 <h3 align="center">A passionate Devops engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/533cb596de310678249a1befdaa2d9d09f998138efa447076da27d274516ed96/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a334e3939346c465641776d565473594a2e676966">
